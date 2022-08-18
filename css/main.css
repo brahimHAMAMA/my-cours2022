@@ -1,0 +1,23 @@
+/*start variable*/
+:root {
+  --main-color: #10cab7;
+  --secondary-color: #2c4755;
+  --section-pading: 60px;
+  --section-background: #f6f6f6;
+}
+
+/*end variable*/
+
+/*Start Globale Rules */
+
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
